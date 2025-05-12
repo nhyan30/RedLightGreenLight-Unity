@@ -26,14 +26,6 @@ What sets this game apart is its **realistic movement physics** and **AI-powered
 
 ---
 
-## 🧠 Features
-
-- AI-controlled NPCs that behave independently for a realistic and unpredictable challenge.
-- Smooth acceleration and deceleration system for player movement.
-- Dynamic difficulty progression as the tempo increases over time.
-- Engaging one-minute gameplay loop with a clear win/lose state.
-
----
 
 ## 🚀 How to Play
 
