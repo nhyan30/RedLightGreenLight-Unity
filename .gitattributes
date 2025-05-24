@@ -1,0 +1,3 @@
+# Treat shader files as documentation (ignored in language stats)
+*.shader linguist-documentation
+*.hlsl linguist-documentation
