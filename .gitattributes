@@ -1,3 +1,0 @@
-# Exclude shader files completely from language statistics
-*.shader linguist-vendored
-*.hlsl linguist-vendored
