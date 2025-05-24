@@ -6,6 +6,8 @@ This Unity project is a reimagined, high-intensity version of the iconic “Red 
 
 What sets this game apart is its **realistic movement physics** and **AI-powered NPCs**, making each round dynamic and unpredictable. Players must balance speed with precision as they accelerate, decelerate, and react to sudden changes—timing is everything.
 
+> 🕹️ **Play Now**: [https://nhyan30.itch.io/squid-game](https://nhyan30.itch.io/squid-game)
+
 ---
 
 ## 🕹️ Core Gameplay
