@@ -16,6 +16,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI countdownText;
     [SerializeField] TextMeshProUGUI resultText;
     [SerializeField] Button playAgainButton;
+    [SerializeField] Image GirlFace;
 
     public TextMeshProUGUI PlayerState => playerState;
 
@@ -59,6 +60,7 @@ public class GameManager : MonoBehaviour
         // Enable PlayerState and TimeLeft text
         PlayerState.gameObject.SetActive(true);
         TimeLeft.gameObject.SetActive(true);
+        GirlFace.gameObject.SetActive(true);
     }
 
     public void RestartGame()
